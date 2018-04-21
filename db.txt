@@ -1,0 +1,7 @@
+DB          DB ADAPTER PACKAGE
+sqlite          sqlite3
+oracle          cx_Oracle
+mysql           mysql-connector  
+postgreSQL      psycopg2
+monogoDb        pymongo
+
